@@ -11,8 +11,8 @@
  
 char auth[] = BLYNK_AUTH_TOKEN;
  
-char ssid[] = "HASEEB"; // Your Wifi Name
-char pass[] = "karachi00201"; // Your Wifi Password
+char ssid[] = "xpon-BASIT"; // Your Wifi Name
+char pass[] = "karachi2022"; // Your Wifi Password
  
 //in the below code, we have set all values reverse
 //For value==1, digitalWrite is "LOW" as the realy module is active "LOW" to turn device ON.
